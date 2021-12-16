@@ -1,0 +1,1 @@
+Ссылка на видео-курс "Верстка сайта HTML, GULP, SASS | Персональный блог" - https://www.youtube.com/watch?v=1ccA_Jo6u-o&list=PLoq3Accf02PWYMRAU8RDRjSfJK52vUTo2
